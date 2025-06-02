@@ -1,0 +1,601 @@
+ParentRegion,ChildRegion,cantidad_de_movimientos
+Lima,Ancash,1556
+Lima,Callao,1390
+Lima,Cusco,1301
+Lima,Tacna,1294
+Ancash,Lima,1255
+Lima,Junin,1185
+Lima,Piura,1068
+Cusco,Lima,1058
+Lima,Arequipa,1047
+Lima,Cajamarca,1031
+Tacna,Lima,977
+Lima,Loreto,943
+Lima,Ica,915
+Piura,Lima,874
+Callao,Lima,873
+Junin,Lima,843
+Loreto,Lima,799
+Cajamarca,Lima,785
+Arequipa,Lima,782
+Lima,Ucayali,638
+Lima,Tumbes,634
+Ica,Lima,603
+Lima,La Libertad,597
+Lima,Lambayeque,560
+Ucayali,Lima,543
+Lima,Huanuco,534
+Lima,Amazonas,484
+Lima,Ayacucho,484
+Tumbes,Lima,459
+Huanuco,Lima,451
+La Libertad,Lima,450
+Lima,Moquegua,425
+Amazonas,Lima,419
+Lambayeque,Lima,412
+Lima,Apurimac,399
+Ayacucho,Lima,362
+Lima,Huancavelica,350
+Lima,Madre De Dios,319
+Lima,San Martin,304
+Apurimac,Lima,303
+Moquegua,Lima,281
+San Martin,Lima,266
+Huancavelica,Lima,250
+Madre De Dios,Lima,245
+Lima,Pasco,238
+Lima,Puno,224
+Puno,Lima,196
+Cajamarca,Piura,184
+Arequipa,Cusco,170
+Piura,Cajamarca,169
+Cusco,Ancash,164
+Pasco,Lima,158
+Cusco,Piura,139
+Cusco,Arequipa,121
+Ancash,Junin,120
+Cusco,Tacna,115
+Ucayali,Loreto,113
+Amazonas,Cajamarca,112
+Tacna,Cusco,110
+Arequipa,Tacna,109
+Loreto,Ucayali,108
+Piura,Cusco,107
+Ucayali,Huanuco,105
+Cajamarca,Amazonas,103
+Piura,Ancash,103
+Junin,Arequipa,100
+Lambayeque,Cajamarca,99
+Loreto,Cusco,96
+Tumbes,Piura,95
+Cajamarca,Lambayeque,94
+Ancash,Cajamarca,94
+Ancash,Callao,91
+Tacna,Ancash,91
+Cajamarca,Arequipa,91
+Cusco,Cajamarca,90
+La Libertad,Ancash,90
+Loreto,Ancash,89
+Cusco,Apurimac,86
+Tacna,Arequipa,86
+Ayacucho,Junin,86
+Apurimac,Cusco,85
+Cajamarca,Ancash,84
+Junin,Ancash,83
+Cajamarca,La Libertad,83
+Callao,Ancash,83
+Callao,Cajamarca,78
+Callao,Arequipa,78
+Cajamarca,Callao,77
+Cusco,Junin,77
+La Libertad,Cajamarca,77
+Arequipa,Ancash,76
+Ancash,Piura,75
+Piura,Arequipa,74
+Arequipa,Cajamarca,74
+Junin,Cusco,74
+Cusco,Callao,74
+Cajamarca,Cusco,74
+Amazonas,Piura,73
+Loreto,Callao,73
+Arequipa,Moquegua,72
+Piura,Tumbes,71
+Ancash,La Libertad,71
+San Martin,Loreto,71
+Callao,Cusco,70
+Cusco,Ica,69
+Arequipa,Callao,68
+Ancash,Ica,68
+Moquegua,Arequipa,66
+Arequipa,Junin,66
+Ancash,Tacna,64
+Tacna,Moquegua,63
+Arequipa,Ayacucho,63
+Cusco,Madre De Dios,63
+Ica,Arequipa,63
+Cusco,Ucayali,63
+Callao,Tacna,63
+Ancash,Cusco,62
+Ancash,Loreto,62
+Cusco,La Libertad,62
+Lambayeque,Amazonas,61
+Junin,Callao,61
+Piura,Lambayeque,61
+Ucayali,Junin,60
+Cusco,Tumbes,60
+Arequipa,Madre De Dios,60
+Junin,Ica,60
+Tacna,Piura,60
+Huanuco,Ucayali,59
+Tacna,Callao,59
+Tacna,Cajamarca,59
+Callao,Loreto,58
+Arequipa,Apurimac,58
+Callao,Piura,58
+Callao,Junin,58
+Ica,Cusco,58
+Ancash,Huanuco,57
+Ucayali,Cusco,57
+Piura,Junin,57
+Piura,Tacna,57
+Loreto,Amazonas,57
+Junin,Piura,56
+Piura,Callao,56
+La Libertad,Cusco,55
+Amazonas,Lambayeque,55
+Ancash,Ucayali,55
+La Libertad,Piura,55
+San Martin,Piura,55
+Ucayali,San Martin,54
+Cusco,Lambayeque,54
+Tumbes,Tacna,54
+Ica,Cajamarca,54
+Ica,Ancash,54
+Apurimac,Arequipa,54
+Arequipa,La Libertad,54
+Tumbes,Cusco,53
+Madre De Dios,Cusco,52
+Piura,Ica,52
+Lambayeque,Callao,52
+Lambayeque,Ancash,52
+Ancash,Tumbes,52
+Arequipa,Ucayali,52
+Ayacucho,Arequipa,52
+Junin,Ayacucho,51
+Junin,Ucayali,50
+Cusco,Ayacucho,50
+Callao,Ica,50
+Arequipa,Piura,49
+Junin,Tacna,49
+Tumbes,Ancash,48
+Tacna,Junin,48
+Ica,Tacna,48
+Piura,Amazonas,48
+Cajamarca,San Martin,48
+Cusco,Amazonas,48
+Ucayali,Ancash,48
+Cajamarca,Tumbes,48
+San Martin,Amazonas,47
+Ayacucho,Cusco,47
+Lambayeque,Piura,47
+Ica,Callao,47
+Tumbes,Junin,46
+Tacna,Ica,46
+San Martin,Callao,46
+Moquegua,Tacna,46
+Tacna,Ucayali,46
+Ancash,Ayacucho,46
+Cusco,Huanuco,45
+Ucayali,Piura,45
+Cajamarca,Ucayali,45
+Cajamarca,Tacna,44
+Loreto,Huanuco,44
+Huanuco,Loreto,44
+Arequipa,Ica,44
+Madre De Dios,Piura,43
+Junin,Cajamarca,43
+Amazonas,Callao,43
+Lambayeque,Arequipa,43
+Ica,Junin,43
+Tacna,Loreto,42
+Junin,Pasco,42
+Pasco,Junin,42
+Ucayali,Ica,42
+Loreto,San Martin,42
+Arequipa,Loreto,42
+La Libertad,Lambayeque,42
+Ancash,Arequipa,42
+San Martin,Cajamarca,41
+Huanuco,Cajamarca,41
+Junin,Huanuco,41
+Arequipa,Amazonas,41
+Cajamarca,Junin,41
+Tumbes,Cajamarca,40
+Huancavelica,Junin,40
+Loreto,Junin,40
+Ancash,Lambayeque,40
+Amazonas,San Martin,40
+La Libertad,Arequipa,40
+Tacna,Ayacucho,39
+Callao,La Libertad,39
+Callao,Lambayeque,39
+Ucayali,Callao,39
+Arequipa,Lambayeque,39
+Lambayeque,La Libertad,39
+Apurimac,Ucayali,39
+Huanuco,Ancash,39
+La Libertad,Callao,39
+Ica,Loreto,39
+Madre De Dios,Cajamarca,39
+Huanuco,Cusco,39
+Huanuco,Tacna,39
+Loreto,Apurimac,38
+Cusco,Puno,38
+Cajamarca,Ica,38
+Ucayali,Arequipa,38
+Huanuco,Callao,38
+Loreto,Piura,37
+Arequipa,Tumbes,37
+Junin,Madre De Dios,37
+Huanuco,Junin,37
+Ica,Piura,37
+Moquegua,Ancash,36
+Ancash,Amazonas,36
+Amazonas,Junin,36
+Tacna,Tumbes,36
+Loreto,Cajamarca,36
+Arequipa,Huanuco,36
+Piura,Ucayali,36
+Huanuco,Ica,36
+Tacna,Huanuco,35
+Loreto,Tacna,35
+Tacna,Puno,35
+Cusco,Loreto,35
+Cusco,Moquegua,35
+Callao,Ucayali,35
+Moquegua,La Libertad,34
+Lambayeque,Tacna,34
+Ucayali,Lambayeque,34
+Tumbes,Lambayeque,34
+Lambayeque,Tumbes,34
+Amazonas,Ancash,33
+Callao,Tumbes,33
+Junin,Huancavelica,33
+Junin,San Martin,32
+Huanuco,La Libertad,32
+Amazonas,La Libertad,32
+San Martin,Ancash,32
+Piura,La Libertad,32
+Puno,Cusco,32
+Piura,Loreto,31
+Cusco,San Martin,31
+Moquegua,Callao,31
+Piura,Huanuco,31
+Moquegua,Cusco,31
+La Libertad,Junin,31
+Piura,Moquegua,30
+Moquegua,Cajamarca,30
+Ayacucho,Cajamarca,30
+Puno,Tacna,30
+La Libertad,Ica,30
+Ucayali,Tacna,30
+Ancash,Moquegua,30
+La Libertad,Tumbes,30
+Tacna,Madre De Dios,30
+Tumbes,Callao,30
+Tacna,La Libertad,30
+Junin,Moquegua,30
+Ica,Ucayali,30
+Madre De Dios,Arequipa,30
+Junin,Puno,29
+Callao,Amazonas,29
+Callao,Ayacucho,29
+Tacna,Apurimac,29
+Ucayali,Cajamarca,29
+La Libertad,Tacna,28
+Callao,Moquegua,28
+Ucayali,La Libertad,28
+Huanuco,Arequipa,28
+Loreto,Arequipa,28
+San Martin,Junin,28
+Huancavelica,Ancash,28
+Piura,Apurimac,28
+San Martin,Ucayali,27
+San Martin,La Libertad,27
+Ayacucho,Callao,27
+Cajamarca,Huanuco,27
+Cajamarca,Apurimac,27
+Madre De Dios,Callao,27
+Ica,La Libertad,27
+Cajamarca,Ayacucho,27
+San Martin,Arequipa,27
+Lambayeque,Cusco,27
+Lambayeque,Loreto,27
+La Libertad,Moquegua,27
+Junin,Lambayeque,27
+Lambayeque,Ica,27
+La Libertad,Amazonas,27
+Ayacucho,Ancash,27
+Ica,Ayacucho,26
+San Martin,Lambayeque,26
+Cajamarca,Moquegua,26
+Tumbes,La Libertad,26
+Piura,San Martin,26
+Pasco,Arequipa,26
+Ayacucho,Piura,26
+Junin,Tumbes,26
+Moquegua,Junin,26
+Apurimac,Ayacucho,26
+Loreto,Ayacucho,26
+Callao,Huanuco,25
+Ayacucho,Tacna,25
+Ancash,Huancavelica,25
+Tumbes,San Martin,25
+Ucayali,Pasco,25
+Ucayali,Ayacucho,25
+Piura,Ayacucho,25
+Loreto,La Libertad,25
+Loreto,Tumbes,25
+Junin,Loreto,25
+Tumbes,Arequipa,25
+Apurimac,Junin,25
+Lambayeque,Junin,25
+Tumbes,Amazonas,25
+Ancash,Puno,24
+Cusco,Huancavelica,24
+Ayacucho,Huancavelica,24
+Cajamarca,Loreto,24
+Madre De Dios,Tacna,24
+Ucayali,Amazonas,23
+Amazonas,Loreto,23
+Arequipa,San Martin,23
+Pasco,Lambayeque,23
+Apurimac,Ancash,23
+La Libertad,Apurimac,23
+Ica,Tumbes,23
+Huancavelica,Ica,23
+Callao,Apurimac,23
+Huancavelica,Huanuco,22
+Callao,San Martin,22
+Moquegua,Huanuco,22
+Apurimac,Tacna,22
+Huanuco,Lambayeque,22
+Lambayeque,San Martin,22
+Junin,La Libertad,22
+Ica,Apurimac,22
+Loreto,Ica,22
+Ayacucho,Ucayali,22
+Huanuco,Pasco,21
+Pasco,Piura,21
+Ucayali,Madre De Dios,21
+Moquegua,Lambayeque,21
+Moquegua,Piura,21
+Junin,Apurimac,21
+Tacna,Huancavelica,21
+Amazonas,Cusco,21
+Piura,Puno,20
+Pasco,Cusco,20
+Madre De Dios,Amazonas,20
+Tacna,Lambayeque,20
+Ayacucho,La Libertad,20
+Loreto,Madre De Dios,20
+Amazonas,Pasco,20
+Ancash,Apurimac,20
+Madre De Dios,Ancash,20
+Tumbes,Ica,20
+Ica,Amazonas,20
+Ica,Lambayeque,20
+Apurimac,Moquegua,19
+San Martin,Pasco,19
+Piura,Madre De Dios,19
+Callao,Madre De Dios,19
+Ucayali,Apurimac,19
+Pasco,Tacna,19
+Ayacucho,Ica,19
+Madre De Dios,La Libertad,19
+Madre De Dios,Junin,19
+Lambayeque,Huanuco,19
+La Libertad,Ayacucho,19
+Huanuco,Amazonas,19
+Amazonas,Tumbes,18
+San Martin,Cusco,18
+Huanuco,Piura,18
+Apurimac,Callao,18
+Callao,Huancavelica,18
+Apurimac,Cajamarca,18
+Huancavelica,Callao,18
+Amazonas,Arequipa,18
+La Libertad,Madre De Dios,18
+La Libertad,San Martin,18
+Amazonas,Apurimac,18
+Huancavelica,Cusco,17
+Amazonas,Ica,17
+Tacna,San Martin,17
+Ancash,Pasco,17
+Tumbes,Ayacucho,17
+Ica,Madre De Dios,17
+Lambayeque,Apurimac,17
+La Libertad,Loreto,17
+Huanuco,San Martin,17
+Huanuco,Tumbes,17
+Apurimac,Lambayeque,17
+Moquegua,Madre De Dios,17
+Cajamarca,Madre De Dios,17
+Piura,Huancavelica,17
+Madre De Dios,Ucayali,17
+Pasco,Ancash,17
+Huanuco,Huancavelica,17
+Arequipa,Puno,17
+Cajamarca,Pasco,17
+Apurimac,Ica,16
+Pasco,Ucayali,16
+Apurimac,Huanuco,16
+Ica,Pasco,16
+La Libertad,Huanuco,16
+Ica,San Martin,16
+Ica,Huanuco,16
+Lambayeque,Ucayali,16
+Junin,Amazonas,16
+Tumbes,Apurimac,16
+Amazonas,Huanuco,16
+Tumbes,Loreto,16
+Ayacucho,Tumbes,16
+Puno,Arequipa,16
+Pasco,Huanuco,16
+Ayacucho,Apurimac,16
+Moquegua,Ica,16
+San Martin,Tumbes,16
+Lambayeque,Ayacucho,16
+Madre De Dios,Apurimac,16
+Moquegua,Ucayali,16
+Arequipa,Huancavelica,16
+Tacna,Pasco,16
+Pasco,La Libertad,16
+Madre De Dios,San Martin,15
+Arequipa,Pasco,15
+Pasco,Callao,15
+Ayacucho,Amazonas,15
+Apurimac,Tumbes,15
+Huancavelica,Tacna,15
+Pasco,Huancavelica,15
+Puno,Cajamarca,15
+San Martin,Ica,15
+Loreto,Lambayeque,15
+Puno,Junin,15
+Pasco,Loreto,15
+Piura,Pasco,15
+Ucayali,Huancavelica,14
+Ancash,Madre De Dios,14
+Cusco,Pasco,14
+Moquegua,Ayacucho,14
+San Martin,Tacna,14
+Madre De Dios,Loreto,14
+San Martin,Huanuco,14
+Huancavelica,Arequipa,14
+Huancavelica,Ayacucho,13
+Madre De Dios,Moquegua,13
+Ancash,San Martin,13
+Lambayeque,Madre De Dios,13
+San Martin,Apurimac,13
+Ayacucho,Lambayeque,13
+Ayacucho,Madre De Dios,13
+Ayacucho,Pasco,13
+Loreto,Huancavelica,12
+Madre De Dios,Ayacucho,12
+Moquegua,San Martin,12
+Pasco,Cajamarca,12
+Madre De Dios,Pasco,12
+Madre De Dios,Lambayeque,12
+La Libertad,Ucayali,12
+Ica,Huancavelica,12
+Amazonas,Ucayali,12
+Ayacucho,Huanuco,12
+Puno,Ancash,12
+Callao,Pasco,12
+Ucayali,Tumbes,11
+Apurimac,Piura,11
+Pasco,Tumbes,11
+Ica,Moquegua,11
+Moquegua,Pasco,11
+Huancavelica,Ucayali,11
+Amazonas,Ayacucho,11
+Ucayali,Puno,11
+Huancavelica,Piura,11
+Puno,Callao,11
+Moquegua,Apurimac,11
+Madre De Dios,Huanuco,11
+Tacna,Amazonas,11
+Huanuco,Ayacucho,11
+Lambayeque,Huancavelica,10
+Moquegua,Puno,10
+Madre De Dios,Ica,10
+Moquegua,Loreto,10
+Ayacucho,Moquegua,10
+Huancavelica,Apurimac,10
+San Martin,Ayacucho,10
+Amazonas,Huancavelica,10
+Amazonas,Madre De Dios,9
+Amazonas,Moquegua,9
+Tumbes,Madre De Dios,9
+Puno,Ica,9
+La Libertad,Pasco,9
+Pasco,Ica,9
+Moquegua,Amazonas,9
+Apurimac,Loreto,9
+Apurimac,La Libertad,9
+Madre De Dios,Huancavelica,9
+Loreto,Moquegua,9
+Loreto,Puno,9
+Huanuco,Apurimac,9
+Huanuco,Moquegua,9
+Apurimac,Amazonas,9
+Huancavelica,Loreto,9
+Ayacucho,Loreto,9
+Cajamarca,Huancavelica,9
+San Martin,Huancavelica,9
+Callao,Puno,9
+Amazonas,Tacna,8
+Tumbes,Ucayali,8
+Huancavelica,Cajamarca,8
+Apurimac,Huancavelica,8
+Tumbes,Huanuco,8
+Apurimac,Pasco,8
+Apurimac,Madre De Dios,8
+Pasco,San Martin,8
+Moquegua,Tumbes,8
+Apurimac,San Martin,7
+Huancavelica,La Libertad,7
+San Martin,Madre De Dios,7
+Huancavelica,Madre De Dios,7
+Tumbes,Puno,7
+Ucayali,Moquegua,7
+Lambayeque,Moquegua,7
+Puno,Piura,7
+Pasco,Ayacucho,7
+Ica,Puno,7
+La Libertad,Huancavelica,7
+Tumbes,Huancavelica,7
+Pasco,Madre De Dios,7
+Huanuco,Madre De Dios,6
+Puno,Apurimac,6
+San Martin,Moquegua,6
+Loreto,Pasco,6
+Lambayeque,Pasco,6
+Tumbes,Pasco,6
+Cajamarca,Puno,5
+Lambayeque,Puno,5
+Puno,San Martin,5
+Madre De Dios,Tumbes,5
+Puno,Moquegua,5
+Apurimac,Puno,5
+Ayacucho,Puno,5
+Huancavelica,Lambayeque,5
+Ayacucho,San Martin,5
+Huancavelica,Moquegua,5
+Pasco,Amazonas,5
+Amazonas,Puno,4
+Puno,Loreto,4
+La Libertad,Puno,4
+Huancavelica,Tumbes,4
+Pasco,Moquegua,4
+Puno,Madre De Dios,4
+Puno,La Libertad,4
+Puno,Tumbes,4
+Huancavelica,Puno,4
+Tumbes,Moquegua,3
+Moquegua,Huancavelica,3
+Puno,Lambayeque,3
+Puno,Huancavelica,3
+Madre De Dios,Puno,3
+Puno,Ucayali,3
+San Martin,Puno,3
+Huancavelica,Amazonas,3
+Puno,Huanuco,3
+Huancavelica,San Martin,3
+Pasco,Apurimac,2
+Huancavelica,Pasco,2
+Puno,Amazonas,2
+Huanuco,Puno,2
+Pasco,Puno,2
+Puno,Pasco,1
+Puno,Ayacucho,1
